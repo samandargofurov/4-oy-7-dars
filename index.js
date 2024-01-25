@@ -1,4 +1,4 @@
-// 1. ========> Ixtiyoriy sonning kubini topuvchi funksiya yozing. <===============        \/\/
+// 1. ========> Ixtiyoriy sonning kubini topuvchi funksiya yozing. <============        \/\/
 
 // // // ====> regular function <=====
 
@@ -214,16 +214,10 @@
 // ====> regular function <=====
 
 // function karralilarkopaytmasi(a, b) {
-//     let p = 1;
-//     for (let i = a; i <= b; i++) {
-//         if (i % 3 == 0 && i % 5 == 0) {
-//             p += i;
-//         }
-//     }
-//     return p
+
 // }
 
-// let res = karralilarkopaytmasi(15, 5);
+// let res = karralilarkopaytmasi(70, 30);
 // console.log(res);
 
 // ====> express function <=====
@@ -249,10 +243,9 @@
 // // ====> regular function <=====
 
 // function tubOrNot(arg) {
-
 // }
 
-// let res = tubOrNot(1);
+// let res = tubOrNot(3);
 // console.log(res);
 
 // // ====> express function <=====
