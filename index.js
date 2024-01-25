@@ -130,7 +130,7 @@
 // let res3 = uchXonaliSonniYigindisi3(223);
 // console.log(res3);
 
-// 4. ===========> Ixtiyoriy sonning bo'luvchilari sonini topuvchi funksiya yozing <============  \\\\\\\\\\\\\
+// 4. ===========> Ixtiyoriy sonning bo'luvchilari sonini topuvchi funksiya yozing <============  \\\\\\\\\\\\
 
 // // ====> regular function <=====
 
